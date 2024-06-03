@@ -1,0 +1,13 @@
+*{
+    background-color: wheat;
+    text-align: left;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}

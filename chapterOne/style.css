@@ -1,0 +1,8 @@
+*{
+    background-color: wheat;
+    text-align: left;
+}
+
+tr:hover{
+    background-color: #D6EEEE;
+}
